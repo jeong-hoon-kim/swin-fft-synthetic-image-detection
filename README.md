@@ -15,7 +15,7 @@
 * **논문명(국문)**: 생성형 AI 합성 이미지 판별을 위한 Swin Transformer 기반 주파수 정보 통합 전략에 관한 연구
 * **논문명(영문)**: *A Study on Frequency Integration Strategies with Swin Transformer for AI-generated Image Detection*
 * **학술지**: 한국전자통신학회 논문지 (*Journal of the Korea Institute of Electronic Communication Sciences*, **KCI 등재지**), 제21권 제3호, pp. 1101–1108 (2026. 06. 30.)
-* **저자**: 김상훈(제1저자) · **김정훈(공동저자)** · 정원식(교신저자) | 건양대학교 의료인공지능학과 / 인공지능학과
+* **저자**: 김상훈(제1저자) · **김정훈(공동1저자)** · 정원식(교신저자) | 건양대학교 의료인공지능학과 / 인공지능학과
 * **DOI**: [`http://dx.doi.org/10.13067/JKIECS.2026.21.3.1101`](http://dx.doi.org/10.13067/JKIECS.2026.21.3.1101)
 * **사사(Acknowledgment)**: 본 연구는 2025년도 교육부 및 대전광역시의 재원으로 대전RISE센터의 지원을 받아 수행된 지역혁신중심 대학지원체계(RISE)의 결과물임 (`2025-RISE-06-001`)
 
